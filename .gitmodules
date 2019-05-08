@@ -1,3 +1,7 @@
 [submodule "contrib/cub"]
 	path = contrib/cub
 	url = https://github.com/NVlabs/cub.git
+[submodule "contrib/moderngpu"]
+	path = contrib/moderngpu
+	url = https://github.com/moderngpu/moderngpu.git
+	branch = branch_1.1
